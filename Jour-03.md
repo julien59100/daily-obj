@@ -5,6 +5,7 @@
 ### Mercredi 15/09/2021
 
 
+
 * [x] Découverte du Terminal : 
   * [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   * [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
@@ -16,3 +17,4 @@
 * [x] Choix / installation d'un terminal (Linux, Mac ou Windows)
 * [x] Découverte de VS Code
 * [x] Comprendre le web (Openclassrooms)
+

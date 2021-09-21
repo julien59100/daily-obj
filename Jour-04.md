@@ -5,6 +5,7 @@
 ### Jeudi 16/09/2021
 
 
+
 * [x] Création de compte Github
 * [x] Installation et configuration de Git
 * [x] Comprendre le versionning
@@ -22,4 +23,5 @@
 * [x] Faire le parcours Git-it (Nodeschool.io)
 * [x] Faire ses premiers commits sur les daily objectives
 * [x] Faire ses premiers pushs des daily-objectives sur son compte Github
+
 
