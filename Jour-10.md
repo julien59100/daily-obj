@@ -10,20 +10,5 @@
   * [x] Comprendre le fonctionnement et les différentes notation des couleurs en CSS
   * [x] Comprendre les différentes notations pour le sizing en CSS (%, px, em, rem)
   * [x] Savoir appliquer des bordures, ombres et backgrounds
-  * [ ] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)
-  * [ ] Faire le parcours [CSS Diner](https://flukeout.github.io/)
-
-### Javascript : 
-
- * [ ] Comprendre  le fonctionnement de `alert`, `prompt` et https://fr.javascript.info/alert-prompt-confirm
-  * [ ] Comprendre les conversion de types en Javascript (http://fr.javascript.info/type-conversions)
-    * [ ] Faire l'exercice / Analyser ses erreurs
-
-
-### Algo : 
-
-  * [ ] Découvrir le tri à bulles (Bubble Sort)
-
-
-
-
+  * [x] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)
+  * [x] Faire le parcours [CSS Diner](https://flukeout.github.io/)

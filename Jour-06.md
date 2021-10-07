@@ -2,7 +2,7 @@
 
 ## Phase 1 - Je suis un(e) développeur(se)
 
-## Mardi 21/09/2021
+## Lundi 20/09/2021
 
 ### Maquettage
 
@@ -21,3 +21,5 @@
     * [x] Comprendre ce qu'est la spécification `ECMA-262`
     * [x] Comprendre ce qu'est le `TC-39`
     * [x] Lister les bonnes sources de documentation
+
+

@@ -6,6 +6,7 @@
 
 ### HTML :
 
+
 * [x] Savoir se documenter (MDN)
 * [x] Découverte de la sainte trinité du web (HTML, CSS et JS)
   * [x] Comprendre les différences et rôle de chacun

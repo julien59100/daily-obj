@@ -2,7 +2,7 @@
 
 ## Phase 1 - Je suis un(e) développeur(se)
 
-## Mercredi 22/09/2021
+## Jeudi 23/09/2021
 
 ### HTML :
 
@@ -27,3 +27,5 @@
   * [x] Comprendre ce qu'est un algorithme
   * [x] Comprendre l'utilité des algorithmes
   * [x] Déterminer l'importance de l’étude des algorithmes dans une carrière de dev
+
+
